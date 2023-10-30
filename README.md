@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Raghu801
+- 👋 Hi, I’m Regalla Raghu Raj 
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c/c++/java?python......etc
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java/python......etc 
 - 📫 How to reach me ...
 
 <!---
